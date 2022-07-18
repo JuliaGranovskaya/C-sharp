@@ -30,3 +30,10 @@ for (int i = 0; i < data.Length; i++)
     Console.WriteLine();
 }
 */
+// Как писать комментарий
+/// <summary>
+/// Печать изображения
+/// </summary>
+/// <param name="row">Это строки </param>
+/// <param name="col">Это столбцы </param>
+/// <returns>Изображение</returns>
